@@ -1,6 +1,6 @@
 # config.py
-# Token du bot Telegram (à remplacer par votre token)
-BOT_TOKEN = "8090148932:AAGfVlCFTBglyfga0vEqGAWyNGLcqz70sUI"
-MAIN_GROUP_ID = -1004704441828  # Remplacez par l'ID de votre groupe principal
-# Liste des administrateurs autorisés (usernames Telegram)
-ADMIN_USERS = ["lilizikatrix"]
+# Telegram bot token (replace with your token)
+BOT_TOKEN = "Your BOT TOKEN"
+MAIN_GROUP_ID = Your group ID  # Replace with your main group ID
+# List of authorized administrators (Telegram usernames)
+ADMIN_USERS = ["admin1","admin2"]
