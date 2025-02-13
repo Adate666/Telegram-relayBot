@@ -13,4 +13,6 @@ It's a bot that relays your messages from one main group to another. it must be 
  - /remove_user to remove an authorized user.
  - /list_users to display the list of authorized users.
 
+you need to provide your bot token, the admin and group id in config.py file
+after running the bot you'll be able to add users directly in th bot, no need to modify the file
 don't forget to install the requirements modules
